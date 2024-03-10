@@ -1,0 +1,6 @@
+pytorch
+jupyter
+notebook
+matplotlib
+numpy
+optuna
