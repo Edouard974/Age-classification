@@ -1,0 +1,9 @@
+pytorch
+transformers
+torchvision
+jupyter
+notebook
+matplotlib
+numpy
+optuna
+seaborn
