@@ -96,7 +96,7 @@ Résultats :
 
 <img src="./resultats_age_estimation/matrix_dinov_653.png" alt="Confusion matrix" width="600">
 
-Il est vraiment impressionnant d'observer que même sans entraîner le ViT et en n'entraînant que la couche de classification, les features robustes du modèle réduit permettent quand même d'atteindre une performance proche de ResNet.
+Il est vraiment impressionnant d'observer que même sans entraîner le ViT et en n'entraînant que la couche de classification, les features robustes du modèle réduit permettent quand même d'atteindre une performance proche de ResNet. Il n'est pas étonnant que les ViT entièrement fine-tunés aient de très bonnes performances.
 
 
 ### Conclusion
